@@ -6,7 +6,10 @@ This game is similar to the classic arcade game asteroids except that the focus 
 ## MVP
 
 This game is very straightforward but will feature a simple AI for enemy ships.
-(There’s no sound in space.)
+
+- [ ] Customization options for ship
+- [ ] Enemy ship AI
+- [ ] There’s no sound in space.
 
 ## Wireframes:
 
@@ -17,17 +20,17 @@ The gameplay will look like this:
 ![Gameplay](spaceship_wireframes/Custom Size – 2.png)
 
 ### Day 1:
--Basic physics for movement
--decide upgrade/rpg aspects(level style vs drops)
+- [ ] Basic physics for movement
+- [ ] decide upgrade/rpg aspects(level style vs drops)
 
 ### Day 2:
--Projectiles
--features - weapons and shields
--enemies part 1
+- [ ] Projectiles
+- [ ] features - weapons and shields
+- [ ] enemies part 1
 
 ### Day 3:
-Enemies (part 2 - Basic AI)
+- [ ] Enemies (part 2 - Basic AI)
 
 ### Day 4:
-Levels + Asteroids
-menus and options.
+- [ ] Levels + Asteroids
+- [ ] menus and options.
