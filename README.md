@@ -15,10 +15,10 @@ This game is very straightforward but will feature a simple AI for enemy ships.
 ## Wireframes:
 
 The game will begin with an information and option configuration modal.
-![Starting](spaceship_wireframes/Custom Size – 1.png)
+![Starting](https://github.com/ryan-mapa/spaceship/blob/master/spaceship_wireframes/Custom%20Size%20%E2%80%93%201.png)
 
 The gameplay will look like this:
-![Gameplay](spaceship_wireframes/Custom Size – 2.png)
+![Gameplay](https://github.com/ryan-mapa/spaceship/blob/master/spaceship_wireframes/Custom%20Size%20%E2%80%93%202.png)
 
 ### Day 1:
 - [ ] Basic physics for movement
