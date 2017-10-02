@@ -7,6 +7,7 @@ This game is similar to the classic arcade game asteroids except that the focus 
 
 This game is very straightforward but will feature a simple AI for enemy ships.
 
+- [ ] Game to be created using Canvas
 - [ ] Customization options for ship
 - [ ] Enemy ship AI
 - [ ] There’s no sound in space.
